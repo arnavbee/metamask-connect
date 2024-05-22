@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { BrowserProvider, parseUnits } from "ethers";
 import { ethers } from 'ethers';
+import "./App.css"
 
 
 function App() {
